@@ -8,3 +8,4 @@ https://resources.infolinks.com/js/infolinks_main.js
 ||teethundercoverhowever.com/*
 ||googletagmanager.com/*
 ||acscdn.com/*
+||cx.dornrusky.com/*
