@@ -9,6 +9,7 @@ https://resources.infolinks.com/js/infolinks_main.js
 ||googletagmanager.com/*
 ||acscdn.com/*
 ||cx.dornrusky.com/*
+||dornrusky.com/*
 
 ||mob.touchcric.com/favicon.ico
 ||mob.touchcric.com/css/images/ajax-loader.gif
