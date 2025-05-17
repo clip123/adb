@@ -13,4 +13,4 @@ https://resources.infolinks.com/js/infolinks_main.js
 ||mob.touchcric.com/favicon.ico
 ||mob.touchcric.com/css/images/ajax-loader.gif
 ||mob.touchcric.com##script:contains(aclib.runPop)
-
+touchcric.com##+js(document.getElementById=function(){return null;})
