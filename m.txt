@@ -10,8 +10,3 @@ https://resources.infolinks.com/js/infolinks_main.js
 ||acscdn.com/*
 ||cx.dornrusky.com/*
 ||dornrusky.com/*
-
-||mob.touchcric.com/favicon.ico
-||mob.touchcric.com/css/images/ajax-loader.gif
-||mob.touchcric.com##script:contains(aclib.runPop)
-https://mob.touchcric.com/images/add.jpg
