@@ -12,3 +12,5 @@ https://resources.infolinks.com/js/infolinks_main.js
 ||touchcric.com/override-jquery.js
 ||touchcric.com##iframe
 ||mob.touchcric.com##iframe
+! desktop redirect block
+touchcric.com##script:has-text(isDesktop)
