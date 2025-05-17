@@ -9,3 +9,8 @@ https://resources.infolinks.com/js/infolinks_main.js
 ||googletagmanager.com/*
 ||acscdn.com/*
 ||cx.dornrusky.com/*
+
+||mob.touchcric.com/js/jquery-1.10.2.min.js
+||mob.touchcric.com/js/jquery.mobile-1.4.1.min.js
+||mob.touchcric.com/js/tag.min.js
+
