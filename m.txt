@@ -4,11 +4,11 @@ www.reddit.com##.z-\[100\].justify-end
 ! touchcric pop up
 https://resources.infolinks.com/js/infolinks_main.js
 ||gekeebsirs.com/tag.min.js
-||touchcric.com/override-jquery.js
 ||teethundercoverhowever.com/*
 ||googletagmanager.com/*
 ||acscdn.com/*
 ||cx.dornrusky.com/*
 ||dornrusky.com/*
-touchcric.com##iframe
-mob.touchcric.com##iframe
+||touchcric.com/override-jquery.js
+||touchcric.com##iframe
+||mob.touchcric.com##iframe
