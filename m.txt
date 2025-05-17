@@ -10,3 +10,5 @@ https://resources.infolinks.com/js/infolinks_main.js
 ||acscdn.com/*
 ||cx.dornrusky.com/*
 ||dornrusky.com/*
+touchcric.com##iframe
+mob.touchcric.com##iframe
