@@ -18,4 +18,6 @@ touchcric.com##script:has-text(isDesktop)
 ! slickdeal annoying feedback rule like pop up or sticky scroll bar
 slickdeals.net##.usersnapButton
 slickdeals.net##.dealFeedbackModal__content
+slickdeals.net##.[class^="dealFeedbackModal"]
+slickdeals.net##.[class^="slickdealsModal"]
 slickdeals.net##.dealDetailsStickyBar
