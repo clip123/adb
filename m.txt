@@ -21,3 +21,11 @@ slickdeals.net##.dealFeedbackModal__content
 slickdeals.net##.[class^="dealFeedbackModal"]
 slickdeals.net##.[class^="slickdealsModal"]
 slickdeals.net##.dealDetailsStickyBar
+slickdeals.net##=[class="dealFeedbackModal"]
+slickdeals.net##.usersnapButton
+slickdeals.net##.dealFeedbackModal__content
+slickdeals.net##*[class*="dealFeedbackModal"]
+slickdeals.net##*[class*="slickdealsModal"]
+slickdeals.net##.dealDetailsStickyBar
+
+
