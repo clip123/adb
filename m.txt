@@ -1,7 +1,7 @@
 ! May 14, 2025 https://www.reddit.com
 www.reddit.com##.z-\[100\].justify-end
 
-! touchcric pop up
+! touchcric pop up ads rule
 https://resources.infolinks.com/js/infolinks_main.js
 ||gekeebsirs.com/tag.min.js
 ||teethundercoverhowever.com/*
@@ -14,3 +14,8 @@ https://resources.infolinks.com/js/infolinks_main.js
 ||mob.touchcric.com##iframe
 ! desktop redirect block
 touchcric.com##script:has-text(isDesktop)
+
+! slickdeal annoying feedback rule like pop up or sticky scroll bar
+slickdeals.net##.usersnapButton
+slickdeals.net##.dealFeedbackModal__content
+slickdeals.net##.dealDetailsStickyBar
