@@ -24,7 +24,6 @@ touchcric.com##script:has-text(isDesktop)
 ||slickdeals.net##=[class="dealFeedbackModal"]
 ||slickdeals.net##.usersnapButton
 ||slickdeals.net##.dealFeedbackModal__content
-
 slickdeals.net##.usersnapButton
 slickdeals.net##.dealFeedbackModal__content
 
@@ -34,5 +33,12 @@ slickdeals.net##*[class*=Modal]
 ||slickdeals.net##*[class*="dealFeedbackModal"]
 ||slickdeals.net##*[class*="slickdealsModal"]
 ||slickdeals.net##.dealDetailsStickyBar
+slickdeals.net##.slickdealsModal
+slickdeals.net##.DIV.dealDetailsStickyBar__wrapper
 
+slickdeals.net##+js(trusted-override-element-method, HTMLDialogElement.prototype.showModal, .dealFeedbackModal)
+slickdeals.net##body:has(.dealFeedbackModal:only-of-type):style(overflow: auto !important)
+
+
+www.google.com##.Tg0csd
 
