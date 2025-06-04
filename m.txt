@@ -33,12 +33,26 @@ slickdeals.net##*[class*=Modal]
 ||slickdeals.net##*[class*="dealFeedbackModal"]
 ||slickdeals.net##*[class*="slickdealsModal"]
 ||slickdeals.net##.dealDetailsStickyBar
+
 slickdeals.net##.slickdealsModal
 slickdeals.net##.DIV.dealDetailsStickyBar__wrapper
 
 slickdeals.net##+js(trusted-override-element-method, HTMLDialogElement.prototype.showModal, .dealFeedbackModal)
 slickdeals.net##body:has(.dealFeedbackModal:only-of-type):style(overflow: auto !important)
 
+slickdeals.net##li.displayAdContainer
 
+! Google
 www.google.com##.Tg0csd
 
+! Ai pop up
+google.com##.TvJSPe
+
+! Ads
+google.com##.tads
+
+! Info cards
+www.google.com##div.MjjYud:nth-of-type(4)
+
+! Ai search response
+google.com##.h7Tj7e
