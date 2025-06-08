@@ -54,5 +54,4 @@ google.com##.tads
 ! Info cards
 www.google.com##div.MjjYud:nth-of-type(4)
 
-! Ai search response
-google.com##.h7Tj7e
+! Ai search response google.com##.h7Tj7e
