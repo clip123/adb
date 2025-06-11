@@ -55,3 +55,7 @@ google.com##.tads
 www.google.com##div.MjjYud:nth-of-type(4)
 
 ! Ai search response google.com##.h7Tj7e
+
+slickdeals.net##.announcementBar__content
+slickdeals.net##.announcementBar
+slickdeals.net##.slickdealsHeader__disclaimer
