@@ -61,4 +61,4 @@ slickdeals.net##.announcementBar
 slickdeals.net##.slickdealsHeader__disclaimer
 
 ! bestbuy lower scrolling bar
-www.bestbuy.com##.list-none.p-none.m-none.w-full.h-full.border-solid.border-light.border-t.border-b-none.border-l-none.border-r-none.flex.align-items-center.text-center.font-weight-medium.body-copy-sm
+www.bestbuy.com##.tab-bar.fixed
