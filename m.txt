@@ -60,5 +60,10 @@ slickdeals.net##.announcementBar__content
 slickdeals.net##.announcementBar
 slickdeals.net##.slickdealsHeader__disclaimer
 
-! bestbuy lower scrolling bar
+! bestbuy tabbar lower scrolling bar
 www.bestbuy.com##.tab-bar.fixed
+
+! bestbuy ad box
+www.bestbuy.com##.superBillboardSV > .app-container.outer-container.text-bottom
+
+www.bestbuy.com##.plp-product-list > .display-ad-wrapper.listview
