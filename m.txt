@@ -59,3 +59,6 @@ www.google.com##div.MjjYud:nth-of-type(4)
 slickdeals.net##.announcementBar__content
 slickdeals.net##.announcementBar
 slickdeals.net##.slickdealsHeader__disclaimer
+
+! bestbuy lower scrolling bar
+www.bestbuy.com##.list-none.p-none.m-none.w-full.h-full.border-solid.border-light.border-t.border-b-none.border-l-none.border-r-none.flex.align-items-center.text-center.font-weight-medium.body-copy-sm
