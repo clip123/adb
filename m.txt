@@ -67,3 +67,17 @@ www.bestbuy.com##.tab-bar.fixed
 www.bestbuy.com##.superBillboardSV > .app-container.outer-container.text-bottom
 
 www.bestbuy.com##.plp-product-list > .display-ad-wrapper.listview
+
+cricclubs.com##[src*="https://
+
+x.com##.css-175oi2r.r-dnmrzs.r-whuqzp
+x.com##.css-175oi2r.r-1wtj0ep.r-ywh0we.r-284m6k.r-1ny4l3l
+x.com##div.css-175oi2r:nth-of-type(9)
+m.youtube.com###home-icon
+
+psdeals.net###gpt-ad-collection-top
+psdeals.net###gpt-ad-collection-middle
+psdeals.net###gpt-ad-collection-bottom
+psdeals.net##*[id*="gpt-ad"]
+psdeals.net###gpt-ad-product-middle
+psdeals.net###gpt-ad-product-bottom
