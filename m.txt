@@ -81,3 +81,17 @@ psdeals.net###gpt-ad-collection-bottom
 psdeals.net##*[id*="gpt-ad"]
 psdeals.net###gpt-ad-product-middle
 psdeals.net###gpt-ad-product-bottom
+
+! Oct 25, 2025 https://www.google.com
+www.google.com###tsuid_Wt38aPT7FZm4qtsPu_PDkA0_14 > div > div > .hYNZ0d > .R1JuAe.QhOYcb.SVDhZe.gSBiC.fxw6Ae > div
+www.google.com###dEwkXc > div
+
+! Oct 25, 2025 https://www.facebook.com
+www.facebook.com##div.bg-s2.m:nth-of-type(26)
+www.facebook.com##div.bg-s2.m:nth-of-type(23)
+! www.facebook.com##div.bg-s2.m:nth-of-type(n+19):nth-of-type(-n+23)
+
+www.facebook.com##div.bg-s2.m:nth-of-type(22)
+www.facebook.com##div.bg-s2.m:nth-of-type(19)
+! ||scontent.ftpa1-1.fna.fbcdn.net/v/t45.1600-4/*.jpg*?*
+
