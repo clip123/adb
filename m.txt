@@ -29,8 +29,9 @@ Mansoor
 !slickdeals.net##.usersnapButton
 !slickdeals.net##.dealFeedbackModal__content
 
-slickdeals.net##*[class*="Modal"]
-slickdeals.net##*[class*=Modal]
+!this removes annoying banner to switch to app on mobile but javascript blocks with blank screen and clicks. commenting this out to show app switch pop back.
+!slickdeals.net##*[class*="Modal"]
+!slickdeals.net##*[class*=Modal]
 
 ||slickdeals.net##*[class*="dealFeedbackModal"]
 !||slickdeals.net##*[class*="slickdealsModal"]
