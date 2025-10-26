@@ -44,6 +44,12 @@ slickdeals.net##body:has(.dealFeedbackModal:only-of-type):style(overflow: auto !
 
 slickdeals.net##li.displayAdContainer
 
+
+!https://github.com/adguardteam/adguardfilters/issues/209865
+! SECTION: Push notifications - Regular rules
+!
+slickdeals.net#%#//scriptlet('set-local-storage-item', 'genericDealAlertModal', '1')
+
 ! Google
 www.google.com##.Tg0csd
 
