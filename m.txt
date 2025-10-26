@@ -26,8 +26,8 @@ touchcric.com##script:has-text(isDesktop)
 slickdeals.net##html body div#__nuxt div div.redesignFrontpageMobile dialog.slickdealsModal.slickdealsModal--smallScreenDrawer.slickdealsModal--largeScreenCenter.slickdealsModal--default.mobileAppBanner div.mobileAppBanner__header
 slickdeals.net##html body div#__nuxt div div.redesignFrontpageMobile dialog.slickdealsModal.slickdealsModal--smallScreenDrawer.slickdealsModal--largeScreenCenter.slickdealsModal--default.mobileAppBanner div.mobileAppBanner__footer a.blueberryButton.blueberryButton--primary.blueberryButton--small.blueberryButton--normal.mobileAppBanner__cta
 Mansoor
-!slickdeals.net##.usersnapButton
-!slickdeals.net##.dealFeedbackModal__content
+slickdeals.net##.usersnapButton
+slickdeals.net##.dealFeedbackModal__content
 
 !this removes annoying banner to switch to app on mobile but javascript blocks with blank screen and clicks. commenting this out to show app switch pop back.
 !slickdeals.net##*[class*="Modal"]
