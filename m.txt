@@ -104,3 +104,9 @@ www.facebook.com##div.bg-s2.m:nth-of-type(22)
 www.facebook.com##div.bg-s2.m:nth-of-type(19)
 ! ||scontent.ftpa1-1.fna.fbcdn.net/v/t45.1600-4/*.jpg*?*
 
+!bestbuy survey
+www.bestbuy.com###survey_blue_border
+www.bestbuy.com###confirmIt-backdrop
+!bestbuy chat bot
+www.bestbuy.com##[src*="https://pisces.bbystatic.com/image2/BestBuy_US/dam/Expert_Darian_Computing-7349de0a-1dad-438f-ac3f-8206dad79d2f.png"]
+www.bestbuy.com##.blue-assist-transitioning-icon.blue-assist-minimized-beacon-img
