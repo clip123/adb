@@ -45,6 +45,9 @@ slickdeals.net##body:has(.dealFeedbackModal:only-of-type):style(overflow: auto !
 
 slickdeals.net##li.displayAdContainer
 
+slickdeals.net##.announcementBar__content
+slickdeals.net##.announcementBar
+slickdeals.net##.slickdealsHeader__disclaimer
 
 !https://github.com/adguardteam/adguardfilters/issues/209865
 ! SECTION: Push notifications - Regular rules
@@ -53,21 +56,14 @@ slickdeals.net#%#//scriptlet('set-local-storage-item', 'genericDealAlertModal', 
 
 ! Google
 www.google.com##.Tg0csd
-
 ! Ai pop up
 google.com##.TvJSPe
-
 ! Ads
 google.com##.tads
-
 ! Info cards
 www.google.com##div.MjjYud:nth-of-type(4)
 
 ! Ai search response google.com##.h7Tj7e
-
-slickdeals.net##.announcementBar__content
-slickdeals.net##.announcementBar
-slickdeals.net##.slickdealsHeader__disclaimer
 
 ! bestbuy tabbar lower scrolling bar
 www.bestbuy.com##.tab-bar.fixed
