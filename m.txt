@@ -106,3 +106,5 @@ www.bestbuy.com###confirmIt-backdrop
 !bestbuy chat bot
 www.bestbuy.com##[src*="https://pisces.bbystatic.com/image2/BestBuy_US/dam/Expert_Darian_Computing-7349de0a-1dad-438f-ac3f-8206dad79d2f.png"]
 www.bestbuy.com##.blue-assist-transitioning-icon.blue-assist-minimized-beacon-img
+
+www.reddit.com##div.rpl-bottom-sheet:nth-of-type(*)
