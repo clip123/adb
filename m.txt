@@ -108,3 +108,9 @@ www.bestbuy.com##[src*="https://pisces.bbystatic.com/image2/BestBuy_US/dam/Exper
 www.bestbuy.com##.blue-assist-transitioning-icon.blue-assist-minimized-beacon-img
 
 www.reddit.com##div.rpl-bottom-sheet:nth-of-type(*)
+
+! block remove youtube yt shorts in from google search
+www.google.com##div.MjjYud:nth-of-type(21)
+!www.google.com##div.MjjYud:nth-of-type(21) > .Ww4FFb.vt6azd > .adDDi
+!www.google.com##div.MjjYud:nth-of-type(21) > .Ww4FFb.vt6azd > div:nth-of-type(2) > .XNfAUb
+!www.google.com##div.MjjYud:nth-of-type(21) > .Ww4FFb.vt6azd > div:nth-of-type(2) > .U48fD
