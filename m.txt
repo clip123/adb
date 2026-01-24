@@ -114,3 +114,8 @@ www.google.com##div.MjjYud:nth-of-type(21)
 !www.google.com##div.MjjYud:nth-of-type(21) > .Ww4FFb.vt6azd > .adDDi
 !www.google.com##div.MjjYud:nth-of-type(21) > .Ww4FFb.vt6azd > div:nth-of-type(2) > .XNfAUb
 !www.google.com##div.MjjYud:nth-of-type(21) > .Ww4FFb.vt6azd > div:nth-of-type(2) > .U48fD
+
+!cricclub embed video
+||http://www.youtube.com/embed/FezLjcLg3Dk
+
+||http://www.youtube.com/embed/FezLjcLg3Dk?rel=0&autoplay=1&mute=1$subdocument
